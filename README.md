@@ -97,7 +97,7 @@ To claim land buy a **Golden Shovel** from the `/shop` for 100 coins then you ca
 
 `/realname <nickname>` - Shows nicknamed players real Minecraft name. Used mainly for command execution purposes like if for example you're trying to trade with the player
 
-`/tab nametag preview` - Using this command will allow you to see your own nametag above your head when you click F5. This feature should only be used for checking how the nametag looks temporarily and not be toggled on permanently. Running the same command again turns the preview off
+`/tab nametag preview` - Using this command will allow you to see your own nametag above your head when you go into third person. This feature should only be used for checking how the nametag looks temporarily and not be toggled on permanently. Running the same command again turns the preview off. You will notice your name lags behind you when previewing and that is only seen by you due to the nature of how Minecraft handles player packets
 
 
 # **Trades**
