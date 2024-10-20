@@ -94,4 +94,4 @@ To claim land buy a **Golden Shovel** from the `/shop` for 100 coins then you ca
 
 # **Trades**
 
-`/trade playername` - Sends trade request to a player test
+`/trade playername` - Sends trade request to a player
