@@ -1,4 +1,4 @@
-## **Note that anywhere you see these symbols <> encasing a word it means that you need to change the text/value of that string without including the <> symbols. For example a command like `/sethome <name>` would mean that you need to replace the <name> part of the command with your prefered name and If you're trying to set the home name as "home" then you'd simply type `/sethome home` Any word(s) in commands that do not have <> around them must stay unchanged**
+## **Note that anywhere you see these symbols <> encasing a word it means that you need to change the text/value of that string without including the <> symbols. For example a command like `/sethome <name>` would mean that you need to replace the <name> part of the command with your prefered name. If you're trying to set the home name as "home" then you'd simply type `/sethome home` Any word(s) in commands that do not have <> around them must stay unchanged**
 
 # **Shop Commands:**
 
