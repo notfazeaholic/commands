@@ -161,3 +161,10 @@ To claim land buy a **Golden Shovel** from the `/shop` for 100 coins then you ca
 `/sit toggle` - Turns off/on the option to sit on slabs and stairs. Very useful for if you're trying to build with anything involving slabs or stairs
 
 `/sit playertoggle` - Turns off/on the ability for other people to sit on your head when they right click on you and takes away your ability to sit on someone else's head if turned off
+
+
+​
+
+# **Block Condense**
+
+`/condense` - When used it will condense raw ores and ingots into their block form
