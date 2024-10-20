@@ -140,3 +140,24 @@ To claim land buy a **Golden Shovel** from the `/shop` for 100 coins then you ca
 `/rename <name>` - Allows you to rename any item that you are currently holding in your hand to whatever you want it to say. Similarly to nicknames you can use hex codes to set up gradient or regular custom color names. **However** unlike nicknames the color format is not MiniMessage and is instead **&#rrggbb**. I have provided [this link](http://rename.epicsmp.online) which leads to the same website that is used for nicknames but **please make sure that you are using the color format `&#rrggbb` otherwise it will not work!**
 
 `/rename` - Using this command alone will remove any renames done on item(s) and set them back to their default state
+
+
+​
+
+# **Sit Commands**
+
+**You can sit on stairs and slabs by right clicking on the top of them however that interaction can get be disabled with the commands below**
+
+`/sit` - Makes you sit on the spot
+
+`/lay` - Makes you lay down on the ground
+
+`/bellyflop` - Makes you lay on your stomach
+
+`/spin` - Makes you spin in place
+
+`/crawl` - Allows you to crawl around on your stomach though can be very buggy and glitchy
+
+`/sit toggle` - Turns off/on the option to sit on slabs and stairs. Very useful for if you're trying to build with anything involving slabs or stairs
+
+`/sit playertoggle` - Turns off/on the ability for other people to sit on your head when they right click on you and takes away your ability to sit on someone else's head if turned off
