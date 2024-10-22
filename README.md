@@ -168,3 +168,18 @@ To claim land buy a **Golden Shovel** from the `/shop` for 100 coins then you ca
 # **Block Condense**
 
 `/condense` - When used it will condense raw ores and ingots into their block form
+
+
+​
+
+# **Player Warps**
+
+`/warp` - Opens the warp GUI where you can see player warps and click on them to go straight to them
+
+`/warp create <name>` - Allows you to create a warp that will be added to the warps GUI if kept public
+
+`/warp delete <name>` - Lets you delete a warp. Alternatively you can also edit and delte warps through the GUI menu
+
+`/warp go <name>` - Allows you to go directly to any warp with a command rather than through the GUI
+
+`/warp info` - Shows information about a warp like location, rating and visits
