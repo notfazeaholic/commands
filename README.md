@@ -183,3 +183,12 @@ To claim land buy a **Golden Shovel** from the `/shop` for 100 coins then you ca
 `/warp go <name>` - Allows you to go directly to any warp with a command rather than through the GUI
 
 `/warp info` - Shows information about a warp like location, rating and visits
+
+
+​
+
+# **Scoreboard Toggle**
+
+`/sb toggle` - Toggles either on/off the scoreboard. Useful for if you want to see more of your screen or build without distractions
+
+`/sb t` - Same thing as `/sb toggle` just abbreviated
