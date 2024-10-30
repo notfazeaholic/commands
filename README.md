@@ -103,7 +103,7 @@ To claim land buy a **Golden Shovel** from the `/shop` for 100 coins then you ca
 ​
 # **Slots**
 
-`/slots <amount>` - Allows you to gamble any amount of money you have from 10 coins up to 1 billion coins in a slot machine
+`/slots <amount>` - Allows you to gamble any amount of money you have from 10 coins up to 100 million coins in a slot machine
 
 
 
