@@ -6,7 +6,7 @@
 ​
 # **Shop Commands:**
 
-`/shop` - Opens up the shop and allows you to buy/sell items within it. If you are on Java you can left click to buy and right click to sell but if you are on Bedrock you will have to just select the item as if you're buying it then click on the redstone torch to switch between buying and selling options
+`/shop` - Opens up the shop and allows you to buy/sell items within it. You can left click to buy and right click to sell items
 
 `/sellall inventory` - Sells everything in your inventory that can be sold to the shop
 
