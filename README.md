@@ -201,8 +201,11 @@ To claim land buy a **Golden Shovel** from the `/shop` for 100 coins then you ca
 `/nv` - Toggles night vision on/off
 
 
-
+​
 
 # **Chat Feelings**
 
 `/feelings` - Shows all avaialble to use chat feeling commands
+
+
+
