@@ -192,3 +192,17 @@ To claim land buy a **Golden Shovel** from the `/shop` for 100 coins then you ca
 `/sb toggle` - Toggles either on/off the scoreboard. Useful for if you want to see more of your screen or build without distractions
 
 `/sb t` - Same thing as `/sb toggle` just abbreviated
+
+
+​
+
+# **Night Vision**
+
+`/nv` - Toggles night vision on/off
+
+
+
+
+# **Chat Feelings**
+
+`/feelings` - Shows all avaialble to use chat feeling commands
