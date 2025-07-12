@@ -137,7 +137,7 @@ To claim land buy a **Golden Shovel** from the `/shop` for 100 coins then you ca
 
 # **Item Renaming**
 
-`/rename <name>` - Allows you to rename any item that you are currently holding in your hand to whatever you want it to say. Similarly to nicknames you can use hex codes to set up gradient or regular custom color names. **However** unlike nicknames the color format is not MiniMessage and is instead **&#rrggbb**. I have provided [this link](http://rename.epicsmp.online) which leads to the same website that is used for nicknames but **please make sure that you are using the color format `&#rrggbb` otherwise it will not work!**
+`/rename <name>` - Allows you to rename any item that you are currently holding in your hand to whatever you want it to say. I have provided [this link](http://gradient.epicsmp.online) which leads to the same website that is used for nicknames as it is the exact same method using the MiniMessage format
 
 `/rename` - Using this command alone will remove any renames done on item(s) and set them back to their default state
 
