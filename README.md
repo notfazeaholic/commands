@@ -204,6 +204,8 @@ To claim land buy a **Golden Shovel** from the `/shop` for 100 coins then you ca
 # **Chat Feelings**
 
 `/feelings` - Shows all avaialble to use chat feeling commands
+`/chatfeelings stats` - Shows how many times you have activated certain feelings
+
 
 
 
