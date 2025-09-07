@@ -117,7 +117,7 @@ To claim land buy a **Golden Shovel** from the `/shop` for 100 coins then you ca
 ​
 # **Nicknames**
 
-`/nick <nickname>` - Allows you to change your in game display name. You can create colored and gradient usernames [here](http://gradient.epicsmp.online) **making sure that you're using the color format `MiniMessage` otherwise it will not work!**
+`/nick <nickname>` - Allows you to change your in game display name. You can create colored and gradient usernames [here](http://gradient.epicsmp.live) **making sure that you're using the color format `MiniMessage` otherwise it will not work!**
 
 `/nonick` - Resets nickname back to your default name
 
@@ -135,7 +135,7 @@ To claim land buy a **Golden Shovel** from the `/shop` for 100 coins then you ca
 
 # **Item Renaming**
 
-`/rename <name>` - Allows you to rename any item that you are currently holding in your hand to whatever you want it to say. I have provided [this link](http://gradient.epicsmp.online) which leads to the same website that is used for nicknames as it is the exact same method using the MiniMessage format
+`/rename <name>` - Allows you to rename any item that you are currently holding in your hand to whatever you want it to say. I have provided [this link](http://gradient.epicsmp.live) which leads to the same website that is used for nicknames as it is the exact same method using the MiniMessage format
 
 `/rename` - Using this command alone will remove any renames done on item(s) and set them back to their default state
 
