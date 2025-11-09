@@ -30,7 +30,7 @@
 
 `/pay <playername> <amount>` - With this command you are able to pay your coins to other players
 
-`/baltop` - Shows leaderboard of players with the most coins on the server
+`/baltop 1` - Shows leaderboard of players with the most coins on the server
 
 
 
